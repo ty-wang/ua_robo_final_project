@@ -16,6 +16,9 @@ Robustness: Does the basin of attraction increase in size when we add the neural
 Learning efficiency: Can the hybrid controller yield better results on the above two metrics after fewer training rollouts than the pure neural net controller?
 
 References 
+
 [1] Salimans, T., Ho, J., Chen, X., and Sutskever, I. (2017). Evolution Strategies as a Scalable Alternative to Reinforcement Learning. ArXiv e-prints.
+
 [2] Byl, Katie, and Russ Tedrake. “Approximate Optimal Control of the Compass Gait on Rough Terrain.” 2008 IEEE International Conference on Robotics and Automation, 2008, doi:10.1109/robot.2008.4543376.
+
 [3] Byl, Katie, and Russ Tedrake. “Metastable Walking Machines.” The International Journal of Robotics Research, vol. 28, no. 8, 2009, pp. 1040–1064., doi:10.1177/0278364909340446.
